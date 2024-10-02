@@ -5,6 +5,11 @@
     margin-right: auto;
 }
 
+.grass {
+    font: bold;
+    font-size: 120%;
+}
+
 #grassetto {
     text-align: center;
     font-size: 130%;
