@@ -12,6 +12,7 @@
 
 #grassetto {
     text-align: center;
+    border-top: 1px solid yellow;
     font-size: 130%;
     background-color: rgb(255, 255, 222);
     color:#6abaa6  
