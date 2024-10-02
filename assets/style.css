@@ -1,6 +1,31 @@
 .colon {
-    height: 550px;
+    width: 500px;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+}
+
+#grassetto {
+    text-align: center;
+    font-size: 130%;
+    background-color: rgb(255, 255, 222);
+    color:#6abaa6  
+}
+
+#logo-syte {
+    
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sally {
+    text-align: center;
+    color;: rgb(73, 71, 71, 0.4)
+}
+
+#featured {
+    font-size: 110%;
+    color: orange;
+    border-left: orange;
 }
